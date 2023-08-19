@@ -1,0 +1,47 @@
+.navbar_Main{
+    width: 100%;
+    display:flex;
+    justify-content: space-around;
+    height: 80px;
+    background-color: rgb(21, 21, 58);
+    align-items: center;
+    border-bottom: 1px solid white;
+     
+     position: fixed;
+     top: 0;
+      
+}
+a{
+     
+    font-weight: 500;
+     font-size: large;
+    text-decoration: none;
+    word-spacing: 2px;
+    height: fit-content;
+    color: white;
+}
+.nav-img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+
+ 
+@media  screen and (max-width: 600px){
+    .navbar_Main{
+
+        width: 100%;
+    display:flex;
+     gap:20px;
+    height: 80px;
+    background-color: rgb(21, 21, 58);
+    align-items: center;
+     
+     position: fixed;
+      
+     word-wrap: break-word;
+      
+    }
+    
+}
+ 

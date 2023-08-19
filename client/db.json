@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "name": "Samrat Kumar",
+      "email": "samrat@gmail.com",
+      "password": "samrat",
+      "mobileNumber": "9310082548",
+      "age": "26",
+      "address": "munger",
+      "gender": "male",
+      "occupation": "student",
+      "id": 1
+    }
+  ]
+}
