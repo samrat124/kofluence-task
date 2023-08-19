@@ -63,7 +63,7 @@ const Login = ({handleLogin,loggedInUser,handleUserData}) => {
                 onChange={handleChange}
                 required
               />
-              {/* Login button */}
+               
               <button type="submit">Login</button>
             </form>
           </div>

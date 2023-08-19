@@ -63,7 +63,7 @@ const Registration = () => {
                 required
               />
               <input
-                type="text"
+                type="number"
                 name="mobileNumber"
                 placeholder="Mobile Number"
                 value={formData.mobileNumber}

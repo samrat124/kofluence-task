@@ -1,9 +1,4 @@
-/* src/App.css */
-
-/* Global styles */
  
-  
-  /* Registration container */
   .registration-container {
     background-color: #ffffff;
     border-radius: 8px;
@@ -16,7 +11,7 @@
     margin-top: 80px;
   }
   
-  /* Form fields */
+  
   input[type='text'],
   input[type='email'],
   input[type='password'],
@@ -36,7 +31,7 @@
      
   }
   
-  /* Register button */
+   
   button[type='submit'] {
     background-color: #007bff;
     color: white;
